@@ -1,9 +1,9 @@
-###📦 Expiry Date Tracker System
+### 📦 Expiry Date Tracker System
  ___
  
  A simple Python-based command-line tool to help users keep track of items and their expiry dates. This system allows users to add items with expiry dates, view all stored items, and get alerts for items that are expiring within 7 days.
 
-###🚀 Features
+### 🚀 Features
 ___
 ✅ Add items with expiry dates
 
@@ -13,18 +13,18 @@ ___
 
 💾 Data persistence using a JSON file (expiry_database.json)
 
-###🛠️ Requirements
+### 🛠️ Requirements
 Python 3.x
 
 No external libraries required — uses only built-in Python modules (json, datetime).
 
-###📁 File Structure
+### 📁 File Structure
 
 expiry_tracker.py          # Main Python script
 expiry_database.json       # JSON file that stores item data (auto-created if not present)
 README.md                  # This file
 
-###🧑‍💻 How to Use
+### 🧑‍💻 How to Use
 Clone the Repository or Download the script.
 
 Run the script using:
@@ -34,7 +34,7 @@ python expiry_tracker.py
 Follow the menu options:
 
 
-###📦 Welcome to the Expiry Date Tracker System
+### 📦 Welcome to the Expiry Date Tracker System
 MENU
 1. Add item with expiry date
 2. View items nearing expiry (within 7 days)
