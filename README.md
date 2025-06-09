@@ -13,7 +13,7 @@ ___
 
 💾 Data persistence using a JSON file (expiry_database.json)
 
-### 🛠️ Requirements
+### 🛠️ Requirements  
 Python 3.x
 
 No external libraries required — uses only built-in Python modules (json, datetime).
@@ -32,7 +32,7 @@ Run the script using:
 
 python expiry_tracker.py
 Follow the menu options:
-
+   
 
 ### 📦 Welcome to the Expiry Date Tracker System
 MENU
