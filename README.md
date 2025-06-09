@@ -43,9 +43,7 @@ MENU
    ____
 🧾 Example
 Adding an Item:
-pgsql
-Copy
-Edit
+
 Enter item name: Milk
 Enter expiry date (YYYY-MM-DD): 2025-06-10
 ✅ 'Milk' added with expiry date 2025-06-10
