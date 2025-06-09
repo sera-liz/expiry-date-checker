@@ -44,14 +44,18 @@ MENU
 🧾 Example
 Adding an Item:
 
-Enter item name: Milk
-Enter expiry date (YYYY-MM-DD): 2025-06-10
-✅ 'Milk' added with expiry date 2025-06-10
-Viewing Near-Expiry Items:
+<p>Enter item name: Milk
+<p>Enter expiry date (YYYY-MM-DD): 2025-06-10
+
+<p>✅ 'Milk' added with expiry date 2025-06-10
+<p>Viewing Near-Expiry Items:
  ___
-⚠ Items nearing expiry (within 7 days):
-- Milk (Expires: 2025-06-10)
-💡 Future Improvements (Suggestions)
+<p>⚠ Items nearing expiry (within 7 days):
+<p>- Milk (Expires: 2025-06-10)
+
+ 
+ ### 💡 Future Improvements (Suggestions)
+ ____
 GUI interface using Tkinter or PyQt
 
 Notification support (email or local alert)
