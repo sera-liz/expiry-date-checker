@@ -5,7 +5,7 @@ database = "expiry_database.json"
 
 def load_database():
     try:
-        with open(database, "r") as file:
+        with open(database, "r") as file:                                                                                                                                                                       
             return json.load(file)
     except FileNotFoundError:
         return []
